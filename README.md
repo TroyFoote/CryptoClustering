@@ -6,12 +6,7 @@ Use your Python knowledge along with unsupervised machine learning knowledge to 
 
 ### Requirements
 
-* Python
-* Pandas
-* Scikit-learn
-* hvPlot
-* KMeans
-* Principal Component Analysis (PCA)
+* crypto_market_data_csv
 
 ### Instructions
 
